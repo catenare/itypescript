@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "diff": "^4.0.1",
-    "jp-kernel": "^1.2.0",
+    "jp-kernel": "^2.0.0",
     "typescript": "^3.3.3333",
     "uuid": "^3.3.2"
   },
